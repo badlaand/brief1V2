@@ -37,3 +37,21 @@ header {
   left: 110px;
   justify-content: center;
 }
+ul {
+  list-style-type: none;
+}
+#reussite {
+  border: 1px, whitesmoke;
+  padding: 4%;
+  margin: 2%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px whitesmoke;
+}
+#vivre {
+  border: 1px whitesmoke;
+  padding: 4%;
+  margin: 2%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px whitesmoke;
