@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: white;
+  border-bottom: 1px;
+  border-width: 1px;
+  box-shadow: 10px 10px 10px #e6e9ea;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  height: 40px;
+  display: flex;
+}
+
+.introgenerale {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.introgauche {
+  width: 50%;
+  background-color: aqua;
+  margin-top: 10%;
+}
+.introdroite {
+  width: 50%;
+  background-color: brown;
+  margin-top: 10%;
+}
+#boutoncharte {
+  background-color: #e40034;
+  color: white;
+  position: relative;
+  left: 110px;
+  justify-content: center;
+}
